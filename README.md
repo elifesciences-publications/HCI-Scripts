@@ -1,3 +1,7 @@
+
+### This code is associated with the paper from Sdano et al., "A novel SH2 recognition mechanism recruits Spt6 to the doubly phosphorylated RNA polymerase II linker at sites of transcription". eLife, 2017. http://dx.doi.org/10.7554/eLife.28723
+
+
 # HCI-Scripts
 Miscellaneous bioinformatics scripts written by me for myself and other people.
 
